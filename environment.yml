@@ -1,6 +1,7 @@
 channels:
 - bioconda
-dependencies:
+ - defaults
+ dependencies:
 - python-omero=5.4.5=py27_0
 - zeroc-ice=3.6.3=py27_0
 - numpy
