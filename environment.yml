@@ -3,8 +3,7 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - python
+  - python-omero
   - numpy
   - matplotlib
   - pandas
-  - python-omero
