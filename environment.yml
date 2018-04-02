@@ -1,14 +1,10 @@
 name: example-environment
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - python
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - python-omero
